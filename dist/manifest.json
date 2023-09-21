@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Styles analyzer",
+  "version": "1.0",
+  "icons": {
+    "16": "vite.svg",
+    "32": "vite.svg",
+    "48": "vite.svg",
+    "128": "vite.svg"
+  },
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "ext-logo.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content-script.js"]
+    }
+  ],
+  "background": {
+    "service_worker": "service-worker.js"
+  }
+}
