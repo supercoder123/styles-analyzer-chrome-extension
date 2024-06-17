@@ -8,10 +8,11 @@ Built this while working on the design system at work. Needed to know what the e
 
 <br />
 
-![alt text](screenshot.png)
+![Screenshot](screenshot.png)
 
 <br />
 
 ## Demo Video:
 
-<video controls src="recording.mp4" title="Title"></video>
+https://github.com/supercoder123/styles-analyzer-chrome-extension/assets/16488390/aba85ff3-8867-4c27-bc7d-820fd67550f2
+
