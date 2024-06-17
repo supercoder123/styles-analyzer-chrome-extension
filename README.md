@@ -6,6 +6,12 @@ Built this while working on the design system at work. Needed to know what the e
 2. Click to copy any of the styles
 3. Three different formats for colors
 
-## Demo:
+<br />
+
+![alt text](screenshot.png)
+
+<br />
+
+## Demo Video:
 
 <video controls src="recording.mp4" title="Title"></video>
